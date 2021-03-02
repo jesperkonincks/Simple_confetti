@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.confetti {
+  background-color: #eb5e34;
+  padding: 20px;
+}
+
+.confetti h3 {
+  margin: 0;
+  color: #fff;
+  letter-spacing: 1.5px;
+}
